@@ -301,58 +301,58 @@ TWO DAY SCHEDULE
 <!--
 FOUR DAY SCHEDULE
 --->
-<!--
+
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome </td> </tr>
-      <tr> <td>09:30</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>10:30</td> <td>Break </td> </tr>
-      <tr> <td>10:45</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:30</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:15</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:35</td> <td>Finish day 1 </td> </tr>
+      <tr> <td>10:00 - 30min</td> <td>Welcome </td> </tr>
+      <tr> <td>10:30 - 60min </td> <td>Building Skill with Practice </td> </tr>
+      <tr> <td>11:30 - 15min</td> <td>Break </td> </tr>
+      <tr> <td>11:45 - 45min</td> <td>Expertise and Instruction </td> </tr>
+      <tr> <td>12:30 - 45min</td> <td>Memory and Cognitive Load </td> </tr>
+      <tr> <td>13:15 - 20min</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td>15:00</td> <td>Finish day 1 </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr> <td>13:35</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:35</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td>15:15</td> <td>Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:30</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>16:50</td> <td>Finish day 2</td> </tr>
+      <tr> <td>10:00 - 60min</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td> - 40min</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
+      <tr> <td> - 15min</td> <td>Break </td> </tr>
+      <tr> <td> - 60min</td> <td>Teaching Is a Skill </td> </tr>
+      <tr> <td> - 20min</td> <td>Wrap-up and Homework </td> </tr>
+      <tr> <td>15:00</td> <td>Finish day 2</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 3</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Getting Started on Instructor Certification </td> </tr>
-      <tr> <td>09:40</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>10:25</td> <td>Break </td> </tr>
-      <tr> <td>10:40</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>11:45</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>12:30</td> <td>Finish day 3 </td> </tr>
+      <tr> <td>10:00 - 10min</td> <td>Welcome Back </td> </tr>
+      <tr> <td>10:10 - 30min</td> <td>Getting Started on Instructor Certification </td> </tr>
+      <tr> <td>10:40 - 45min</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>11:25 - 15min</td> <td>Break </td> </tr>
+      <tr> <td>11:40 - 65min</td> <td>Live Coding Is a Skill </td> </tr>
+      <tr> <td>12:45 - 45min</td> <td>Preparing to Teach </td> </tr>
+      <tr> <td>13:30</td> <td>Finish day 3 </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
-      <tr> <td>13:30</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>14:15</td> <td>Working with Your Team</td> </tr>
-      <tr> <td>15:25</td> <td>Break </td> </tr>
-      <tr> <td>15:40</td> <td>Launches and Landings </td> </tr>
-      <tr> <td>16:20</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:40</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:50</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>17:05</td> <td>Finish </td> </tr>
+      <tr> <td>10:00 - 45min</td> <td>More Practice Live Coding </td> </tr>
+      <tr> <td> - 70min</td> <td>Working with Your Team</td> </tr>
+      <tr> <td> - 15min</td> <td>Break </td> </tr>
+      <tr> <td> - 40min</td> <td>Launches and Landings </td> </tr>
+      <tr> <td> - 20min</td> <td>Putting it Together </td> </tr>
+      <tr> <td> - 10min</td> <td>Wraping Up </td> </tr>
+      <tr> <td> - 15min</td> <td>Post-Training Survey </td> </tr>
+      <tr> <td>15:00</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
--->
+
 
 
 
