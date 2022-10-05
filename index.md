@@ -347,14 +347,14 @@ FOUR DAY SCHEDULE
   <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
-      <tr> <td>10:00 - 10min</td> <td>Welcome Back </td> </tr> <!-- 10min -->
-      <tr> <td>10:10 - 45min</td> <td>More Practice Live Coding </td> </tr> <!-- 45min -->
-      <tr> <td>10:55 - 70min</td> <td>Working with Your Team</td> </tr> <!-- 70min -->
-      <tr> <td>12:05 - 45min</td> <td>Lunch</td> </tr> <!-- 45min -->
-      <tr> <td>12:50 - 40min</td> <td>Launches and Landings </td> </tr> <!-- 40min -->
-      <tr> <td>13:10 - 20min</td> <td>Putting it Together </td> </tr> <!-- 20min -->
-      <tr> <td>14:35 - 10min</td> <td>Wraping Up </td> </tr> <!-- 10min -->
-      <tr> <td>14:45 - 15min</td> <td>Post-Training Survey </td> </tr> <!-- 15min -->
+      <tr> <td>10:00</td> <td>Welcome Back </td> </tr> <!-- 10min -->
+      <tr> <td>10:10</td> <td>More Practice Live Coding </td> </tr> <!-- 45min -->
+      <tr> <td>10:55</td> <td>Working with Your Team</td> </tr> <!-- 70min -->
+      <tr> <td>12:05</td> <td>Lunch</td> </tr> <!-- 45min -->
+      <tr> <td>12:50</td> <td>Launches and Landings </td> </tr> <!-- 40min -->
+      <tr> <td>13:10</td> <td>Putting it Together </td> </tr> <!-- 20min -->
+      <tr> <td>14:35</td> <td>Wraping Up </td> </tr> <!-- 10min -->
+      <tr> <td>14:45</td> <td>Post-Training Survey </td> </tr> <!-- 15min -->
       <tr> <td>15:00</td> <td>Finish </td> </tr> <!-- 80min spare -->
     </table>
   </div>
