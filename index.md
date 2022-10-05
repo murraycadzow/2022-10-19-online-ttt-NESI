@@ -306,49 +306,56 @@ FOUR DAY SCHEDULE
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>10:00 - 30min</td> <td>Welcome </td> </tr>
-      <tr> <td>10:30 - 60min </td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>11:30 - 15min</td> <td>Break </td> </tr>
-      <tr> <td>11:45 - 45min</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>12:30 - 45min</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>13:15 - 20min</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>15:00</td> <td>Finish day 1 </td> </tr>
+      <tr> <td>10:00</td> <td>Welcome </td> </tr> <!-- 30min -->
+      <tr> <td>10:30</td> <td>Building Skill with Practice </td> </tr> <!-- 60min -->
+      <tr> <td>11:30</td> <td>Break </td> </tr> <!-- 10min -->
+      <tr> <td>11:40</td> <td>Expertise and Instruction </td> </tr> <!-- orig 45min -->
+      <tr> <td>12:30</td><td>Lunch</td></tr> <!-- 45min -->
+      <tr> <td>13:15</td> <td>Memory and Cognitive Load </td> </tr> <!-- 45min -->
+      <tr> <td>14:00</td> <td>Building Skill with Feedback </td> </tr> <!-- 20min -->
+      <tr> <td>15:00</td> <td>Finish day 1 </td> </tr> <!-- 40min spare -->
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr> <td>10:00 - 60min</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td> - 40min</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td> - 15min</td> <td>Break </td> </tr>
-      <tr> <td> - 60min</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td> - 20min</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>15:00</td> <td>Finish day 2</td> </tr>
+      <tr> <td>10:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>10:10</td> <td>Motivation and Demotivation </td> </tr> <!-- 60min -->
+      <tr> <td>11:10</td> <td>Break </td> </tr> <!-- 10min -->
+      <tr> <td>11:20</td> <td>Equity, Inclusion, and Accessibility </td> </tr> <!-- 40 min -->
+      <tr> <td>12:15</td><td>Lunch</td></tr> <!-- 45min -->
+      <tr> <td>13:00</td> <td>Teaching Is a Skill </td> </tr> <!-- 60min -->
+      <tr> <td>14:00</td><td>Break</td></tr> <!-- 10 min -->
+      <tr> <td>14:40</td> <td>Wrap-up and Homework </td> </tr> <!-- 20min -->
+      <tr> <td>15:00</td> <td>Finish day 2</td> </tr> <!-- 30 min spare -->
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 3</h3>
     <table class="table table-striped">
-      <tr> <td>10:00 - 10min</td> <td>Welcome Back </td> </tr>
-      <tr> <td>10:10 - 30min</td> <td>Getting Started on Instructor Certification </td> </tr>
-      <tr> <td>10:40 - 45min</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>11:25 - 15min</td> <td>Break </td> </tr>
-      <tr> <td>11:40 - 65min</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>12:45 - 45min</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>13:30</td> <td>Finish day 3 </td> </tr>
+      <tr> <td>10:00</td> <td>Welcome Back </td> </tr> <!-- 10min -->
+      <tr> <td>10:10</td> <td>Getting Started on Instructor Certification </td> </tr> <!-- 30min -->
+      <tr> <td>10:40</td> <td>The Carpentries: How We Operate </td> </tr> <!--45min -->
+      <tr> <td>11:25</td> <td>Break </td> </tr> <!-- 10min -->
+      <tr> <td>11:40</td> <td>Live Coding Is a Skill </td> </tr> <!-- 65min -->
+      <tr> <td>12:45</td><td>Lunch</td></tr> <!-- 45min -->
+      <tr> <td>13:15</td> <td>Preparing to Teach </td> </tr> <!-- 45min -->
+      <tr> <td>14:50</td> <td>Wraping Up </td> </tr> <!-- 10min -->
+      <tr> <td>15:00</td> <td>Finish day 3 </td> </tr> <!-- 95 min spare -->
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
-      <tr> <td>10:00 - 45min</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td> - 70min</td> <td>Working with Your Team</td> </tr>
-      <tr> <td> - 15min</td> <td>Break </td> </tr>
-      <tr> <td> - 40min</td> <td>Launches and Landings </td> </tr>
-      <tr> <td> - 20min</td> <td>Putting it Together </td> </tr>
-      <tr> <td> - 10min</td> <td>Wraping Up </td> </tr>
-      <tr> <td> - 15min</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>15:00</td> <td>Finish </td> </tr>
+      <tr> <td>10:00 - 10min</td> <td>Welcome Back </td> </tr> <!-- 10min -->
+      <tr> <td>10:10 - 45min</td> <td>More Practice Live Coding </td> </tr> <!-- 45min -->
+      <tr> <td>10:55 - 70min</td> <td>Working with Your Team</td> </tr> <!-- 70min -->
+      <tr> <td>12:05 - 45min</td> <td>Lunch</td> </tr> <!-- 45min -->
+      <tr> <td>12:50 - 40min</td> <td>Launches and Landings </td> </tr> <!-- 40min -->
+      <tr> <td>13:10 - 20min</td> <td>Putting it Together </td> </tr> <!-- 20min -->
+      <tr> <td>14:35 - 10min</td> <td>Wraping Up </td> </tr> <!-- 10min -->
+      <tr> <td>14:45 - 15min</td> <td>Post-Training Survey </td> </tr> <!-- 15min -->
+      <tr> <td>15:00</td> <td>Finish </td> </tr> <!-- 80min spare -->
     </table>
   </div>
 </div>
