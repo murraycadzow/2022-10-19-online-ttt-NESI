@@ -308,11 +308,12 @@ FOUR DAY SCHEDULE
     <table class="table table-striped">
       <tr> <td>10:00</td> <td>Welcome </td> </tr> <!-- 30min -->
       <tr> <td>10:30</td> <td>Building Skill with Practice </td> </tr> <!-- 60min -->
-      <tr> <td>11:30</td> <td>Break </td> </tr> <!-- 10min -->
+      <tr> <td>11:30</td> <td>10 min Break </td> </tr> <!-- 10min -->
       <tr> <td>11:40</td> <td>Expertise and Instruction </td> </tr> <!-- orig 45min -->
       <tr> <td>12:30</td><td>Lunch</td></tr> <!-- 45min -->
       <tr> <td>13:15</td> <td>Memory and Cognitive Load </td> </tr> <!-- 45min -->
-      <tr> <td>14:00</td> <td>Building Skill with Feedback </td> </tr> <!-- 20min -->
+      <tr> <td>14:00</td><td>10 min Break</td></tr>
+      <tr> <td>14:10</td> <td>Building Skill with Feedback </td> </tr> <!-- 20min -->
       <tr> <td>15:00</td> <td>Finish day 1 </td> </tr> <!-- 40min spare -->
     </table>
   </div>
@@ -321,11 +322,11 @@ FOUR DAY SCHEDULE
     <table class="table table-striped">
       <tr> <td>10:00</td> <td>Welcome Back </td> </tr>
       <tr> <td>10:10</td> <td>Motivation and Demotivation </td> </tr> <!-- 60min -->
-      <tr> <td>11:10</td> <td>Break </td> </tr> <!-- 10min -->
+      <tr> <td>11:10</td> <td>10 min Break </td> </tr> <!-- 10min -->
       <tr> <td>11:20</td> <td>Equity, Inclusion, and Accessibility </td> </tr> <!-- 40 min -->
       <tr> <td>12:15</td><td>Lunch</td></tr> <!-- 45min -->
       <tr> <td>13:00</td> <td>Teaching Is a Skill </td> </tr> <!-- 60min -->
-      <tr> <td>14:00</td><td>Break</td></tr> <!-- 10 min -->
+      <tr> <td>14:00</td><td>10 min Break</td></tr> <!-- 10 min -->
       <tr> <td>14:40</td> <td>Wrap-up and Homework </td> </tr> <!-- 20min -->
       <tr> <td>15:00</td> <td>Finish day 2</td> </tr> <!-- 30 min spare -->
     </table>
@@ -340,6 +341,7 @@ FOUR DAY SCHEDULE
       <tr> <td>11:40</td> <td>Live Coding Is a Skill </td> </tr> <!-- 65min -->
       <tr> <td>12:45</td><td>Lunch</td></tr> <!-- 45min -->
       <tr> <td>13:15</td> <td>Preparing to Teach </td> </tr> <!-- 45min -->
+      <tr> <td>14:00</td> <td>10 min Break</td> </tr>
       <tr> <td>14:50</td> <td>Wraping Up </td> </tr> <!-- 10min -->
       <tr> <td>15:00</td> <td>Finish day 3 </td> </tr> <!-- 95 min spare -->
     </table>
@@ -353,6 +355,7 @@ FOUR DAY SCHEDULE
       <tr> <td>12:05</td> <td>Lunch</td> </tr> <!-- 45min -->
       <tr> <td>12:50</td> <td>Launches and Landings </td> </tr> <!-- 40min -->
       <tr> <td>13:10</td> <td>Putting it Together </td> </tr> <!-- 20min -->
+      <tr> <td>14:00</td> <td>10 min Break</td> </tr>
       <tr> <td>14:35</td> <td>Wraping Up </td> </tr> <!-- 10min -->
       <tr> <td>14:45</td> <td>Post-Training Survey </td> </tr> <!-- 15min -->
       <tr> <td>15:00</td> <td>Finish </td> </tr> <!-- 80min spare -->
