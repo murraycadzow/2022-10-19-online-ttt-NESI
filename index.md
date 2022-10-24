@@ -339,10 +339,11 @@ FOUR DAY SCHEDULE
       <tr> <td>10:40</td> <td>The Carpentries: How We Operate </td> </tr> <!--45min -->
       <tr> <td>11:25</td> <td>Break </td> </tr> <!-- 10min -->
       <tr> <td>11:40</td> <td>Live Coding Is a Skill </td> </tr> <!-- 65min -->
-      <tr> <td>12:45</td><td>Lunch</td></tr> <!-- 45min -->
-      <tr> <td>13:15</td> <td>Preparing to Teach </td> </tr> <!-- 45min -->
-      <tr> <td>14:00</td> <td>10 min Break</td> </tr>
-      <tr> <td>14:50</td> <td>Wraping Up </td> </tr> <!-- 10min -->
+      <tr> <td>12:05</td><td>Lunch</td></tr> <!-- 45min -->
+      <tr> <td>12:50</td> <td>Live Coding Is a Skill cont </td> </tr>
+      <tr> <td>13:30</td> <td>Preparing to Teach </td> </tr> <!-- 45min -->
+      <tr> <td>14:10</td> <td>10 min Break</td> </tr>
+      <tr> <td>14:50</td> <td>Wrapping Up </td> </tr> <!-- 10min -->
       <tr> <td>15:00</td> <td>Finish day 3 </td> </tr> <!-- 95 min spare -->
     </table>
   </div>
@@ -351,12 +352,14 @@ FOUR DAY SCHEDULE
     <table class="table table-striped">
       <tr> <td>10:00</td> <td>Welcome Back </td> </tr> <!-- 10min -->
       <tr> <td>10:10</td> <td>More Practice Live Coding </td> </tr> <!-- 45min -->
-      <tr> <td>10:55</td> <td>Working with Your Team</td> </tr> <!-- 70min -->
-      <tr> <td>12:05</td> <td>Lunch</td> </tr> <!-- 45min -->
-      <tr> <td>12:50</td> <td>Launches and Landings </td> </tr> <!-- 40min -->
-      <tr> <td>13:10</td> <td>Putting it Together </td> </tr> <!-- 20min -->
+      <tr> <td>11:05</td><td> 10 min break </td></tr>
+      <tr> <td>11:15</td> <td>Working with Your Team</td> </tr> <!-- 70min -->
+      <tr> <td>12:15</td> <td>Lunch</td> </tr> <!-- 45min -->
+      <tr> <td>13:00</td> <td>Working with Your Team cont</td> </tr> <!-- 70min -->
+      <tr> <td>13:15</td> <td>Launches and Landings </td> </tr> <!-- 40min -->
       <tr> <td>14:00</td> <td>10 min Break</td> </tr>
-      <tr> <td>14:35</td> <td>Wraping Up </td> </tr> <!-- 10min -->
+      <tr> <td>14:10</td> <td>Putting it Together </td> </tr> <!-- 20min -->
+      <tr> <td>14:35</td> <td>Wrapping Up </td> </tr> <!-- 10min -->
       <tr> <td>14:45</td> <td>Post-Training Survey </td> </tr> <!-- 15min -->
       <tr> <td>15:00</td> <td>Finish </td> </tr> <!-- 80min spare -->
     </table>
